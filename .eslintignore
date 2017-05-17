@@ -1,0 +1,7 @@
+node_modules/
+www/
+plugins/
+platforms/
+hooks/
+src/vendor
+memo

@@ -1,0 +1,7 @@
+node_modules/
+plugins/
+platforms/
+www/
+*.log
+*.log.*
+memo
